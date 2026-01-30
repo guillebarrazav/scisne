@@ -1,0 +1,8 @@
+sqlalchemy
+psycopg2-binary
+chromadb
+ollama
+openai
+python-dotenv
+pandas
+sentence-transformers
