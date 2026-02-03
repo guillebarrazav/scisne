@@ -1,4 +1,24 @@
+# --- Python Virtual Environment ---
+venv/
+env/
+.env_scisne/
+
+# --- Bytecode  ---
+__pycache__/
+*.py[cod]
+
+# --- Seguridad ---
 .env
-__pycache__
-chromadb
-.ds_store
+.env.local
+
+# --- Base de datos local ---
+*.db
+*.sqlite
+*.sqlite3
+scisne_memory/
+
+# --- macOS System Files ---
+.DS_Store
+
+# --- Metadata ---
+metadata.yaml

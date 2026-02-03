@@ -10,7 +10,7 @@
 ## 🚀 Key Features
 
 - **🧠 Semantic Onboarding**: Don't just scan tables. Teach Scisne business rules (e.g., *"A 'Churned User' is someone inactive for >30 days"*) using the CLI.
-- **🔌 Model Agnostic**: Built to run 100% local with **Ollama** (Llama 3, Mistral) or cloud-based.
+- **🔌 Model Agnostic**: Built to run 100% local with **Ollama** (Llama 3, Mistral) or cloud-based (Coming Soon).
 - **🛡️ Read-Only by Design**: Ensures safe execution of generated queries.
 - **💬 Chat Interface**: (Coming Soon) Integrations for Slack, Teams, and WhatsApp.
 
